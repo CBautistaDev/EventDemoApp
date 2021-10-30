@@ -1,0 +1,16 @@
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\bin\Release\net5.0\EventDemo.exe
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\bin\Release\net5.0\EventDemo.deps.json
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\bin\Release\net5.0\EventDemo.runtimeconfig.json
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\bin\Release\net5.0\EventDemo.runtimeconfig.dev.json
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\bin\Release\net5.0\EventDemo.dll
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\bin\Release\net5.0\ref\EventDemo.dll
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\bin\Release\net5.0\EventDemo.pdb
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\obj\Release\net5.0\EventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\obj\Release\net5.0\EventDemo.AssemblyInfoInputs.cache
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\obj\Release\net5.0\EventDemo.AssemblyInfo.cs
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\obj\Release\net5.0\EventDemo.csproj.CoreCompileInputs.cache
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\obj\Release\net5.0\EventDemo.dll
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\obj\Release\net5.0\ref\EventDemo.dll
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\obj\Release\net5.0\EventDemo.pdb
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\obj\Release\net5.0\EventDemo.genruntimeconfig.cache
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\TimCoreyTwo\EventDemoApp\EventDemo\obj\Release\net5.0\EventDemo.csproj.AssemblyReference.cache
